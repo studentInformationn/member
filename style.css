@@ -1,0 +1,46 @@
+.jumbotron {
+  padding-top: 4rem;
+  background-image: url(img/sky-full-stars-silhouettes-trees.jpg);
+  background-size: cover;
+  height: 300px;
+}
+
+#carouselExampleIndicators {
+  margin-top: 12px;
+}
+
+h2 {
+  font-family: viga;
+  margin-top: 22px;
+  background-color: rgb(4, 17, 37);
+  color: white;
+  border-radius: 12px;
+  margin: 16px;
+  padding: 8px;
+}
+
+p.rafi {
+  margin-top: -10px;
+  font-family: viga;
+  font-size: 15px;
+}
+
+#container {
+  padding-left: 1.9rem;
+  margin-top: 1rem;
+  position: relative;
+}
+
+h3 {
+  font-family: viga;
+  margin-top: 22px;
+  background-color: rgb(4, 17, 37);
+  color: white;
+  border-radius: 12px;
+  margin: 16px;
+  padding: 8px;
+}
+
+footer {
+  background-color: rgb(4, 17, 37);
+}

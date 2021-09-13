@@ -1,0 +1,18 @@
+#jumbotron {
+  padding-top: 10rem;
+  background-image: url(img/fr.jpg);
+  background-size: cover;
+  height: 200px;
+}
+
+img {
+  margin-top: -3rem;
+}
+
+body {
+  background-color: rgb(0, 0, 0);
+}
+
+footer {
+  background-color: rgb(0, 0, 0);
+}
